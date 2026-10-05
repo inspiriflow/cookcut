@@ -13,7 +13,7 @@
 [![Seedance](https://img.shields.io/badge/Seedance-2.0%20%7C%202.5-black)](#-supported-models)
 [![Google Flow](https://img.shields.io/badge/Google%20Flow-Veo%203.1-4285F4)](#-supported-models)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/prototyper-ai/cookcut?style=social)](https://github.com/prototyper-ai/cookcut)
+[![GitHub stars](https://img.shields.io/github/stars/inspiriflow/cookcut?style=social)](https://github.com/inspiriflow/cookcut)
 
 [Demo](#-demo) · [Quick start](#-quick-start) · [How it works](#-how-it-works) · [Supported models](#-supported-models)
 
@@ -120,14 +120,14 @@ CookCut checks these online every run. The table is a snapshot from **October 20
 
 **Claude.ai / Claude desktop app**
 
-1. Download [`cookcut.skill`](https://github.com/prototyper-ai/cookcut/releases/latest) from Releases.
+1. Download [`cookcut.skill`](https://github.com/inspiriflow/cookcut/releases/latest) from Releases.
 2. Upload it in Claude's Skills settings.
 3. In a new chat, type `/cookcut` or just ask: *"Turn this recipe into a 30-second Seedance video."*
 
 **Claude Code**
 
 ```bash
-git clone https://github.com/prototyper-ai/cookcut.git
+git clone https://github.com/inspiriflow/cookcut.git
 cp -r cookcut/cookcut ~/.claude/skills/
 ```
 
