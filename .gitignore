@@ -1,0 +1,12 @@
+# Videos are uploaded through GitHub's editor, never committed
+*.mp4
+*.mov
+
+# Built per release by .github/workflows/release.yml
+*.skill
+
+# Raw full-size example media; compressed copies live in assets/examples/
+/examples/
+
+.DS_Store
+__pycache__/

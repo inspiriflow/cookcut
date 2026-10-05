@@ -1,0 +1,17 @@
+name: Release skill
+on:
+  push:
+    tags: ["v*"]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Package skill
+        run: zip -r cookcut.skill cookcut -x "*/__pycache__/*" "*.DS_Store"
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: cookcut.skill
+          generate_release_notes: true
