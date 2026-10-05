@@ -57,17 +57,17 @@ You get back a clip-by-clip script, ready to paste into your video model or send
   <tr>
     <td><img src="assets/examples/butter-chicken-curry/reference.jpg" alt="Butter chicken curry reference photo"></td>
     <td>Butter chicken curry<br><sub>10s clip</sub></td>
-    <td><a href="https://github.com/user-attachments/assets/REPLACE-ME"><img src="assets/examples/butter-chicken-curry/poster.jpg" alt="Butter chicken curry AI cooking video"></a></td>
+    <td><video src="https://github.com/user-attachments/assets/e256ddde-0119-439b-a67d-210c32df2d7e" controls width="100%"></video></td>
   </tr>
   <tr>
     <td><img src="assets/examples/creamy-chicken-potato/reference.jpg" alt="Creamy chicken &amp; potato reference photo"></td>
     <td>Creamy chicken &amp; potato<br><sub>10s clip</sub></td>
-    <td><a href="https://github.com/user-attachments/assets/REPLACE-ME"><img src="assets/examples/creamy-chicken-potato/poster.jpg" alt="Creamy chicken &amp; potato AI cooking video"></a></td>
+    <td><video src="https://github.com/user-attachments/assets/ff7681ab-da03-46d1-b655-97f04fddecb5" controls width="100%"></video></td>
   </tr>
   <tr>
     <td><img src="assets/examples/lime-pie/reference.jpg" alt="Lime pie reference photo"></td>
     <td>Lime pie<br><sub>10s clip</sub></td>
-    <td><a href="https://github.com/user-attachments/assets/REPLACE-ME"><img src="assets/examples/lime-pie/poster.jpg" alt="Lime pie AI cooking video"></a></td>
+    <td><video src="https://github.com/user-attachments/assets/c0490cb2-c79c-4687-ade1-f578a33def02" controls width="100%"></video></td>
   </tr>
 </table>
 
