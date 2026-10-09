@@ -170,12 +170,6 @@ python cookcut/scripts/plan_segments.py --total 30 --max 8 --allowed 4,6,8
 # → JSON plan: 4 clips of 8 + 8 + 8 + 6 = 30s
 ```
 
-## 🗺️ Roadmap
-
-- [ ] Traditional Chinese README and caption presets
-- [ ] More demo examples (crafts, assembly)
-- [ ] Direct generation via hosted video APIs
-
 ## 🤝 Contributing
 
 Issues and pull requests are welcome — especially new model limits, prompt formats, and demo examples.
